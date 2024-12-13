@@ -1,0 +1,100 @@
+{
+   "products": [
+       {
+           "id": 1,
+           "name": "Samsung Tv 40 inch",
+           "price": 20999,
+           "image": "https://m.media-amazon.com/images/I/81R3dLptKcL._AC_SL1500_.jpg",
+           "category": "screen",
+           "description": "The V- and D- series come in sizes from 24 to 75 inches and use direct LED backlight. M-Series Quantum: HDR TV. The 2022 models have local dimming up to 32 zones, and come in sizes from 43 to 75 inches. They are LCD TVs with 4K resolution and standard HDMI 2.0 that support AMD FreeSync."
+       },
+       {
+           "id": 2,
+           "name": "Panasonic Tv",
+           "price": 19999,
+           "image": "https://m.media-amazon.com/images/I/91snjIt0nUL._AC_SL1500_.jpg",
+           "category": "screen",
+           "description": "The V- and D- series come in sizes from 24 to 75 inches and use direct LED backlight. M-Series Quantum: HDR TV. The 2022 models have local dimming up to 32 zones, and come in sizes from 43 to 75 inches. They are LCD TVs with 4K resolution and standard HDMI 2.0 that support AMD FreeSync."
+       },
+       {
+           "id": 3,
+           "name": "Sony Tv 50 inch",
+           "price": 28999,
+           "image": "https://m.media-amazon.com/images/I/71KRrmz03zL._AC_SL1500_.jpg",
+           "description": "The V- and D- series come in sizes from 24 to 75 inches and use direct LED backlight. M-Series Quantum: HDR TV. The 2022 models have local dimming up to 32 zones, and come in sizes from 43 to 75 inches. They are LCD TVs with 4K resolution and standard HDMI 2.0 that support AMD FreeSync.",
+           "category": "screen"
+       },
+       {
+           "id": 4,
+           "name": "Vizio Tv",
+           "price": 51999,
+           "image": "https://m.media-amazon.com/images/I/81OsEmGZ1dL._AC_SL1500_.jpg",
+           "category": "screen",
+           "description": "The V- and D- series come in sizes from 24 to 75 inches and use direct LED backlight. M-Series Quantum: HDR TV. The 2022 models have local dimming up to 32 zones, and come in sizes from 43 to 75 inches. They are LCD TVs with 4K resolution and standard HDMI 2.0 that support AMD FreeSync."
+       },
+       {
+           "id": 5,
+           "name": "Apple iPhone 14 Plus",
+           "price": 1000,
+           "image": "https://m.media-amazon.com/images/I/61B0+qQriPL._AC_SL1500_.jpg",
+           "category": "Phone",
+           "description": "The Apple iPhone XS features a stunning Super Retina OLED display, an advanced dual-camera system, Face ID, and the powerful A12 Bionic chip for seamless performance. It offers wireless charging and is water- and dust-resistant, perfect for everyday use."
+       },
+       {
+           "id": 6,
+           "name": "Apple iPhone 15",
+           "price": 1000,
+           "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_SL1000_.jpg",
+           "category": "Phone",
+           "description": "The Apple iPhone 15 introduces groundbreaking features with its A17 Bionic chip, dynamic island display, and a robust titanium frame. It includes an improved 48MP main camera, a longer battery life, and runs on iOS 17 for the latest Apple experience."
+       },
+       {
+           "id": 7,
+           "name": "iPhone 12",
+           "price": 1000,
+           "image": "https://m.media-amazon.com/images/I/5109dvnof9L._AC_SL1000_.jpg",
+           "category": "Phone",
+           "description": "The iPhone 12 is a compact powerhouse with a 5.4-inch Super Retina XDR display, dual 12MP cameras, and the A14 Bionic chip. It supports 5G connectivity, MagSafe charging, and comes in vibrant colors for a stylish and practical experience."
+       },
+       {
+           "id": 8,
+           "name": "iPhone 15 Pro",
+           "price": 1000,
+           "image": "https://m.media-amazon.com/images/I/51PtFHUPjBL._AC_SL1000_.jpg",
+           "category": "Phone",
+           "description": "The iPhone 16 Pro is the epitome of innovation with its advanced camera system, ProMotion display technology, and a powerful A18 Bionic chip. Offering enhanced battery life and cutting-edge features, it's built for professionals and tech enthusiasts alike."
+       },
+       {
+           "id": 9,
+           "name": "HP 14 Ultral Light",
+           "price": 1000,
+           "image": "https://m.media-amazon.com/images/I/71EPfXnafGL._AC_SL1500_.jpg",
+           "category": "Laptop",
+           "description": "HP 14 Ultral Light Laptop for Students and Business, Intel Quad-Core, 8GB RAM, 192GB Storage(64GB eMMC+128GB Ghost Manta SD Card), 1 Year Office 365, USB C, Win 11 S"
+       },
+       {
+           "id": 10,
+           "name": "HP 17.3 FHD Business Laptop",
+           "price": 1000,
+           "image": "https://m.media-amazon.com/images/I/61-WHYDXeCL._AC_SL1200_.jpg",
+           "category": "Laptop",
+           "description": "HP 14 Laptop, Intel Celeron N4020, 4 GB RAM, 64 GB Storage, 14-inch Micro-edge HD Display, Windows 11 Home, Thin & Portable, 4K Graphics, One Year of Microsoft 365 (14-dq0040nr, Snowflake White)"
+       },
+       {
+           "id": 11,
+           "name": "Dell Inspiron 5645 Laptop",
+           "price": 1000,
+           "image": "https://m.media-amazon.com/images/I/719yYrijeKL._AC_SL1500_.jpg",
+           "category": "Laptop",
+           "description": "Dell Inspiron 5645 Laptop - 16.0 16:10 FHD+ (1920 x 1200) Display, AMD Ryzen 7-8840U, 16GB DDR5 RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, Onsite & Migrate Services - Midnight Blue"
+       },
+       {
+           "id": 12,
+           "name": "ASUS ROG Strix",
+           "price": 1000,
+           "image": "https://m.media-amazon.com/images/I/61jXnz-S-JL._AC_SL1500_.jpg",
+           "category": "Laptop",
+           "description": "ASUS ROG Strix G17 (2022) Gaming Laptop, 17.3” 144Hz IPS FHD Display, NVIDIA GeForce RTX 3050 GPU, AMD Ryzen 7 6800H Processor, 16GB DDR5 RAM, 512GB SSD, RGB Keyboard, Windows 11, G713RC-RS73"
+       }
+   ]
+}
